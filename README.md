@@ -1,3 +1,2 @@
-# myrepoA line I wrote on my local computer
-
-this is a testing line 
+# Bias-vs-Variance
+Use target shooting and density diagram to better understand bias and variance  
